@@ -1,2 +1,2 @@
-# fastq_bam_utils
+# genome_utils
 Tools to get info from FASTQ and BAM files
